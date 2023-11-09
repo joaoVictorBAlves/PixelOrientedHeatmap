@@ -1,5 +1,9 @@
 # Pixel-Oriented Visualization Techniques
 
+![image](https://github.com/joaoVictorBAlves/PixelOrientedHeatmap/assets/86852231/48efd5c5-0ec7-4840-a13e-43e0e2bea608)
+![image](https://github.com/joaoVictorBAlves/PixelOrientedHeatmap/assets/86852231/3205402e-5545-49b6-8d3b-e1e66f2b869f)
+
+
 Este código é baseado em técnicas de visualização orientadas a pixels, conforme descritas no artigo "Designing Pixel-Oriented Visualization Techniques: Theory and Applications" por Daniel A. Keim.
 
 O artigo original pode ser encontrado [aqui](https://ieeexplore.ieee.org/document/841121).
